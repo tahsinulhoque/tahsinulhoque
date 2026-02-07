@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tahisunul Hoque</h1>
 <h3 align="center">Aspiring DevOps Engineer | Cloud & Automation Enthusiast from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahsinulhoque" alt="tahsinulhoque" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tahsinul_hoqu" target="blank"><img src="https://img.shields.io/twitter/follow/tahsinul_hoqu?logo=twitter&style=for-the-badge" alt="tahsinul_hoqu" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud & DevOps Technologies: AWS (IAM, EC2, S3, VPC), Docker, Git & GitHub, GitHub Actions (CI/CD), Linux fundamentals, Infrastructure as Code basics, and DevOps best practices**
