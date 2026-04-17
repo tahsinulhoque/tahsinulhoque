@@ -6,7 +6,7 @@
 - 📫 How to reach me **tahsinulhoquesiddiki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/tahsinul_hoqu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahsinul_hoqu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tahsinulhoque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tahsinulhoque/" height="30" width="40" /></a>
 <a href="https://twitter.com/tahsinul_hoqu" target="blank"><img src="https://img.shields.io/twitter/follow/tahsinul_hoqu?logo=twitter&style=for-the-badge" alt="tahsinul_hoqu" height="30" width="40" /></a> 
