@@ -29,6 +29,13 @@
 - 🎯 Goal: Become a professional DevOps Engineer  
 
 ---
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahsinulhoque&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
 
 ## ⚙️ DevOps & Tools
 
@@ -89,16 +96,4 @@
 
 ---
 
-## 👀 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahsinulhoque&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-💡 I love turning manual processes into automated systems 🚀
-
----
