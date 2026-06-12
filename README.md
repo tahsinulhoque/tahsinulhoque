@@ -39,6 +39,3 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsinulhoque&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahsinulhoque&theme=github_dark" />
-</p>
