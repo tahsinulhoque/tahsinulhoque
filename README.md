@@ -19,12 +19,13 @@
 </p>
 
 ## 👨‍💻 About Me
-
-- 🎓 CSE Student
-- ☁️ Passionate about DevOps & Cloud Engineering
+- 🎓 Computer Science & Engineering Graduate
+- 💼 Currently working as a DevOps Intern at Springer Capital
+- ☁️ Passionate about DevOps, Cloud Engineering & Automation
 - 🚀 Building hands-on projects with AWS, Docker, Kubernetes & Terraform
-- 🔄 Focused on CI/CD, Infrastructure as Code (IaC) and Cloud Native Technologies
-- 🐧 Comfortable working with Linux and automation
+- 🔄 Interested in CI/CD, Infrastructure as Code (IaC) & Cloud-Native Technologies
+- 🐧 Comfortable working with Linux, Git & automation
+- 📚 Continuously learning and improving my DevOps & Cloud skills
 
 ## 🛠️ Tech Stack
 
